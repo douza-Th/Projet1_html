@@ -1,0 +1,27 @@
+
+       
+    
+     .titre1 {
+        font-weight: 50;
+        color: blue;
+        
+     }
+     
+     a:visited {
+        color: red;
+     }
+
+     .titre2 {
+        text-align: left;
+        color: brown;
+        font-family: 30px;
+     }
+
+     .footer-1 {
+        margin-top: 20px;
+        background-color: aqua;
+     }
+
+     footer p {
+        text-align: center;
+     }
